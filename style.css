@@ -9,3 +9,18 @@ body
     color:greenyellow;
     text-align:center;
 }
+.button
+{
+    border:solid 2px greenyellow;
+    border-radius:5vh;
+    background-color: darkcyan;
+    color:greenyellow;
+    width:10vw;
+    cursor:pointer;
+}
+.button:hover
+{
+    border-color:greenyellow;
+    background-color: greenyellow;
+    color:darkcyan;
+}
