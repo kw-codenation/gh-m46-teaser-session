@@ -16,6 +16,7 @@ body
     background-color: darkcyan;
     color:greenyellow;
     width:10vw;
+    margin:1vh;
     cursor:pointer;
 }
 .button:hover
